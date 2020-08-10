@@ -1,2 +1,2 @@
 # YouTube-Video-Downloader
-YouTube Video Downloader GUI (tkinter). 
+YouTube Video Downloader with GUI (tkinter). 
